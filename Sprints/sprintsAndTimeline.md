@@ -1,56 +1,56 @@
-| Sprint       | Task                       | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 |
-| ------------ | -------------------------- | ------ | ------ | ------ | ------ | ------ | ------ |
-| **Sprint 1** | Setup Node.js + Express    |        |        |        |        |        |        |
-|              | Setup MySQL database       |        |        |        |        |        |        |
-|              | Create users table         |        |        |        |        |        |        |
-|              | Register API               |        |        |        |        |        |        |
-|              | Login API (JWT)            |        |        |        |        |        |        |
-|              | RBAC middleware            |        |        |        |        |        |        |
-|              | Dashboards (basic)         |        |        |        |        |        |        |
-| **Sprint 2** | Create addresses table     |        |        |        |        |        |        |
-|              | Create subscriptions table |        |        |        |        |        |        |
-|              | Subscription API           |        |        |        |        |        |        |
-|              | Plan + slot logic          |        |        |        |        |        |        |
-|              | Fruit customization        |        |        |        |        |        |        |
-|              | Pause/Resume/Skip          |        |        |        |        |        |        |
-|              | Cut-off validation         |        |        |        |        |        |        |
-|              | Subscription UI            |        |        |        |        |        |        |
-| **Sprint 3** | Create orders table        |        |        |        |        |        |        |
-|              | Setup cron job             |        |        |        |        |        |        |
-|              | Generate daily orders      |        |        |        |        |        |        |
-|              | Apply pause/skip rules     |        |        |        |        |        |        |
-|              | Assign delivery slots      |        |        |        |        |        |        |
-|              | Order status logic         |        |        |        |        |        |        |
-|              | Order locking              |        |        |        |        |        |        |
-|              | Order history UI           |        |        |        |        |        |        |
-| **Sprint 4** | Fetch address data         |        |        |        |        |        |        |
-|              | K-Means (Python)           |        |        |        |        |        |        |
-|              | Assign clusters            |        |        |        |        |        |        |
-|              | TSP (Nearest Neighbor)     |        |        |        |        |        |        |
-|              | 2-Opt optimization         |        |        |        |        |        |        |
-|              | Create routes table        |        |        |        |        |        |        |
-|              | Create route_stops table   |        |        |        |        |        |        |
-|              | Store routes               |        |        |        |        |        |        |
-|              | Validate route duration    |        |        |        |        |        |        |
-|              | Admin trigger API          |        |        |        |        |        |        |
-| **Sprint 5** | Fetch routes API           |        |        |        |        |        |        |
-|              | Display route UI           |        |        |        |        |        |        |
-|              | Mark delivery done         |        |        |        |        |        |        |
-|              | Update order status        |        |        |        |        |        |        |
-|              | Record timestamps          |        |        |        |        |        |        |
-|              | Delivery logs              |        |        |        |        |        |        |
-|              | Customer status view       |        |        |        |        |        |        |
-| **Sprint 6** | Create payments table      |        |        |        |        |        |        |
-|              | Create earnings table      |        |        |        |        |        |        |
-|              | Mock payment system        |        |        |        |        |        |        |
-|              | Store transactions         |        |        |        |        |        |        |
-|              | Earnings calculation       |        |        |        |        |        |        |
-|              | Monthly reports            |        |        |        |        |        |        |
-|              | Payment dashboard          |        |        |        |        |        |        |
-| **Sprint 7** | Manage users               |        |        |        |        |        |        |
-|              | Manage delivery partners   |        |        |        |        |        |        |
-|              | Configure slots            |        |        |        |        |        |        |
-|              | Approve schedules          |        |        |        |        |        |        |
-|              | Reports & analytics        |        |        |        |        |        |        |
-|              | Dashboard visualization    |        |        |        |        |        |        |
-|              | Testing & bug fixing       |        |        |        |        |        |        |
+| Sprint       | Task                            | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 |
+| ------------ | ------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ |
+| **Sprint 1** | Setup Node.js + Express (GP)    | ✅     |        |        |        |        |        |
+|              | Setup MySQL database (GP)       | ✅     |        |        |        |        |        |
+|              | Create users table (GP)         | ✅     |        |        |        |        |        |
+|              | Register API (GP)               | ✅     |        |        |        |        |        |
+|              | Login API (JWT) (GP)            | ✅     |        |        |        |        |        |
+|              | RBAC middleware (SK)            | ✅     |        |        |        |        |        |
+|              | Dashboards (basic) (SK)         | ✅     |        |        |        |        |        |
+| **Sprint 2** | Create addresses table (GP)     |        |        |        |        |        |        |
+|              | Create subscriptions table (GP) |        |        |        |        |        |        |
+|              | Subscription API (GP)           |        |        |        |        |        |        |
+|              | Plan + slot logic (GP)          |        |        |        |        |        |        |
+|              | Fruit customization (SK)        |        |        |        |        |        |        |
+|              | Pause/Resume/Skip (GP)          |        |        |        |        |        |        |
+|              | Cut-off validation (GP)         |        |        |        |        |        |        |
+|              | Subscription UI (SK)            |        |        |        |        |        |        |
+| **Sprint 3** | Create orders table (GP)        |        |        |        |        |        |        |
+|              | Setup cron job (GP)             |        |        |        |        |        |        |
+|              | Generate daily orders (GP)      |        |        |        |        |        |        |
+|              | Apply pause/skip rules (GP)     |        |        |        |        |        |        |
+|              | Assign delivery slots (GP)      |        |        |        |        |        |        |
+|              | Order status logic (GP)         |        |        |        |        |        |        |
+|              | Order locking (SK)              |        |        |        |        |        |        |
+|              | Order history UI (SK)           |        |        |        |        |        |        |
+| **Sprint 4** | Fetch address data (GP)         |        |        |        |        |        |        |
+|              | K-Means (Python) (SK)           |        |        |        |        |        |        |
+|              | Assign clusters (GP)            |        |        |        |        |        |        |
+|              | TSP (Nearest Neighbor) (SK)     |        |        |        |        |        |        |
+|              | 2-Opt optimization (SK)         |        |        |        |        |        |        |
+|              | Create routes table (GP)        |        |        |        |        |        |        |
+|              | Create route_stops table (GP)   |        |        |        |        |        |        |
+|              | Store routes (GP)               |        |        |        |        |        |        |
+|              | Validate route duration (GP)    |        |        |        |        |        |        |
+|              | Admin trigger API (GP)          |        |        |        |        |        |        |
+| **Sprint 5** | Fetch routes API (GP)           |        |        |        |        |        |        |
+|              | Display route UI (SK)           |        |        |        |        |        |        |
+|              | Mark delivery done (GP)         |        |        |        |        |        |        |
+|              | Update order status (GP)        |        |        |        |        |        |        |
+|              | Record timestamps (GP)          |        |        |        |        |        |        |
+|              | Delivery logs (SK)              |        |        |        |        |        |        |
+|              | Customer status view (SK)       |        |        |        |        |        |        |
+| **Sprint 6** | Create payments table (GP)      |        |        |        |        |        |        |
+|              | Create earnings table (GP)      |        |        |        |        |        |        |
+|              | Mock payment system (SK)        |        |        |        |        |        |        |
+|              | Store transactions (GP)         |        |        |        |        |        |        |
+|              | Earnings calculation (GP)       |        |        |        |        |        |        |
+|              | Monthly reports (SK)            |        |        |        |        |        |        |
+|              | Payment dashboard (SK)          |        |        |        |        |        |        |
+| **Sprint 7** | Manage users (GP)               |        |        |        |        |        |        |
+|              | Manage delivery partners (GP)   |        |        |        |        |        |        |
+|              | Configure slots (GP)            |        |        |        |        |        |        |
+|              | Approve schedules (GP)          |        |        |        |        |        |        |
+|              | Reports & analytics (SK)        |        |        |        |        |        |        |
+|              | Dashboard visualization (SK)    |        |        |        |        |        |        |
+|              | Testing & bug fixing (SK)       |        |        |        |        |        |        |
