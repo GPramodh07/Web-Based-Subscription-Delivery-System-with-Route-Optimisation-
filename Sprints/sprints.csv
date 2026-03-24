@@ -1,0 +1,17 @@
+Sprint ID,S1,S2,S3,S4,S5,S6,S7
+Sprint Name,Foundation (Auth & DB),Subscription System,Order System,Smart Delivery,Delivery Execution,Payments & Earnings,Admin Control & Reports
+Created By,Project Team,Project Team,Project Team,Project Team,Project Team,Project Team,Project Team
+Date Created,24-02-2026,24-02-2026,24-02-2026,24-02-2026,24-02-2026,24-02-2026,24-02-2026
+Last Updated By,nill,nill,nill,nill,nill,nill,nill
+Date Last Updated,nill,nill,nill,nill,nill,nill,nill
+Actors,Customer;Admin;Delivery Partner,Customer,Customer;System,System;Admin,Delivery Partner;Customer,Customer;Admin,Admin
+Description,Setup authentication and base system,Manage subscriptions and plans,Generate and manage orders,Optimize delivery routes,Execute deliveries by partners,Handle payments and earnings,Admin monitoring and control
+Preconditions,Project setup complete,User logged in,Subscription exists,Orders exist,Routes assigned,Orders completed,System running
+Post conditions,Users can login/register,Subscriptions active,Orders generated,Routes optimized,Deliveries completed,Payments recorded,Reports generated
+Normal Flow,Setup server→Create schema→Auth APIs→Dashboards,Create plan→Subscribe→Select slot→Manage subscription,Generate daily orders→Assign slots→Update status,Fetch locations→Cluster→Assign routes→Optimize path,Fetch route→Deliver orders→Update status,Process payment→Store transactions→Calculate earnings,Manage users→Generate reports→Monitor system
+Alternate Flows,DB connection error,Invalid subscription,No orders generated,Clustering failure,Delivery failure,Payment failure,Report generation failure
+Exceptions,Server crash,Validation error,Order conflict,Algorithm error,Update failure,Transaction error,System error
+Priority,High,High,High,High,High,High,High
+Frequency of Use,High,High,Daily,Daily,Daily,Frequent,Frequent
+Business Rules,Role-based access control,Subscription policy rules,Cut-off time rules,Route optimization logic,Delivery confirmation required,Secure transactions,Admin privileges required
+Assumptions,Server available,User authenticated,Data consistency,Accurate location data,Partner availability,Payment gateway active,System stable
