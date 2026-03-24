@@ -4,8 +4,8 @@
 |              | Setup MySQL database (GP)       | ✅     |        |        |        |        |        |
 |              | Create users table (GP)         | ✅     |        |        |        |        |        |
 |              | Register API (GP)               | ✅     |        |        |        |        |        |
-|              | Login API (JWT) (GP)            | ✅     |        |        |        |        |        |
-|              | RBAC middleware (SK)            | ✅     |        |        |        |        |        |
+|              | Login API (GP)                  | ✅     |        |        |        |        |        |
+|              | Authentication and RBA          | ✅     |        |        |        |        |        |
 |              | Dashboards (basic) (SK)         | ✅     |        |        |        |        |        |
 | **Sprint 2** | Create addresses table (GP)     |        |        |        |        |        |        |
 |              | Create subscriptions table (GP) |        |        |        |        |        |        |
