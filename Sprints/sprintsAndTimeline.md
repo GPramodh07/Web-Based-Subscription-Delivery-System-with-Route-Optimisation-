@@ -5,7 +5,7 @@
 |              | Create users table (GP)         | ✅     |        |        |        |        |        |
 |              | Register API (GP)               | ✅     |        |        |        |        |        |
 |              | Login API (GP)                  | ✅     |        |        |        |        |        |
-|              | Authentication and RBA          | ✅     |        |        |        |        |        |
+|              | Authentication and RBA (SK)     | ✅     |        |        |        |        |        |
 |              | Dashboards (basic) (SK)         | ✅     |        |        |        |        |        |
 | **Sprint 2** | Create addresses table (GP)     |        |        |        |        |        |        |
 |              | Create subscriptions table (GP) |        |        |        |        |        |        |
