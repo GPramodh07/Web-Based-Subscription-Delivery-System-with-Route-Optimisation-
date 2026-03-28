@@ -8,7 +8,7 @@ Actors,Customer;Admin;Delivery Partner,Customer,Customer;System,System;Admin,Del
 Description,Setup authentication and base system,Manage subscriptions and plans,Generate and manage orders,Optimize delivery routes,Execute deliveries by partners,Handle payments and earnings,Admin monitoring and control
 Preconditions,Project setup complete,User logged in,Subscription exists,Orders exist,Routes assigned,Orders completed,System running
 Post conditions,Users can login/register,Subscriptions active,Orders generated,Routes optimized,Deliveries completed,Payments recorded,Reports generated
-Normal Flow,Setup server→Create schema→Auth APIs→Dashboards,Create plan→Subscribe→Select slot→Manage subscription,Generate daily orders→Assign slots→Update status,Fetch locations→Cluster→Assign routes→Optimize path,Fetch route→Deliver orders→Update status,Process payment→Store transactions→Calculate earnings,Manage users→Generate reports→Monitor system
+Normal Flow,Setup server→Create schema→Auth APIs→Dashboards,Create plan→Subscribe→Select slot→Manage subscription,Generate daily orders→Assign slots→Update status,Fetch locations→Cluster→Assign routes→route generation,Fetch route→Deliver orders→Update status,Process payment→Store transactions→Calculate earnings,Manage users→Generate reports→Monitor system
 Alternate Flows,DB connection error,Invalid subscription,No orders generated,Clustering failure,Delivery failure,Payment failure,Report generation failure
 Exceptions,Server crash,Validation error,Order conflict,Algorithm error,Update failure,Transaction error,System error
 Priority,High,High,High,High,High,High,High
