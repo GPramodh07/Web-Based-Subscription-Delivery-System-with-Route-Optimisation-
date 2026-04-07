@@ -1,21 +1,21 @@
 | Sprint       | Task                                    | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 |
 | ------------ | --------------------------------------- | ------ | ------ | ------ | ------ | ------ | ------ |
-| **Sprint 1** | Setup Node.js + Express                 | ✅      |        |        |        |        |        |
-|              | Setup MySQL/PostgreSQL DB               | ✅      |        |        |        |        |        |
-|              | Create Users Schema (Admin/Customer/DP) | ✅      |        |        |        |        |        |
-|              | Register API                            | ✅      |        |        |        |        |        |
-|              | Login API                               | ✅      |        |        |        |        |        |
-|              | Role-Based Access Control (RBAC)        | ✅      |        |        |        |        |        |
-|              | Protected Routes                        | ✅      |        |        |        |        |        |
-|              | Basic Dashboards (All Roles)            | ✅      |        |        |        |        |        |
-| **Sprint 2** | Create Subscription & Plan Schema       |        |        |        |        |        |        |
-|              | Subscription API (daily/monthly/yearly) |        |        |        |        |        |        |
-|              | Fruit Customization Logic               |        |        |        |        |        |        |
-|              | Items Management (Admin CRUD)           |        |        |        |        |        |        |
-|              | Item Selection in Subscription          |        |        |        |        |        |        |
-|              | Delivery Slot Selection                 |        |        |        |        |        |        |
-|              | Pause / Resume / Skip                   |        |        |        |        |        |        |
-|              | Cut-off Validation                      |        |        |        |        |        |        |
+| **Sprint 1** | Setup Node.js + Express                 |   ✅   |        |        |        |        |        |
+|              | Setup MySQL/PostgreSQL DB               |   ✅   |        |        |        |        |        |
+|              | Create Users Schema (Admin/Customer/DP) |   ✅   |        |        |        |        |        |
+|              | Register API                            |   ✅   |        |        |        |        |        |
+|              | Login API                               |   ✅   |        |        |        |        |        |
+|              | Role-Based Access Control (RBAC)        |   ✅   |        |        |        |        |        |
+|              | Protected Routes                        |   ✅   |        |        |        |        |        |
+|              | Basic Dashboards (All Roles)            |   ✅   |        |        |        |        |        |
+| **Sprint 2** | Create Subscription & Plan Schema       |        |    ✅  |        |        |        |        |
+|              | Subscription API (daily/monthly/yearly) |        |    ✅  |        |        |        |        |
+|              | Fruit Customization Logic               |        |    ✅  |        |        |        |        |
+|              | Items Management (Admin CRUD)           |        |    ✅  |        |        |        |        |
+|              | Item Selection in Subscription          |        |    ✅  |        |        |        |        |
+|              | Delivery Slot Selection                 |        |    ✅  |        |        |        |        |
+|              | Pause / Resume / Skip                   |        |    ❌  |        |        |        |        |
+|              | Cut-off Validation                      |        |    ❌  |        |        |        |        |
 |              | Subscription UI                         |        |        |        |        |        |        |
 | **Sprint 3** | Create Orders Schema                    |        |        |        |        |        |        |
 |              | Setup Cron Job                          |        |        |        |        |        |        |
