@@ -14,8 +14,8 @@
 |              | Items Management (Admin CRUD)           |        |    ✅  |        |        |        |        |
 |              | Item Selection in Subscription          |        |    ✅  |        |        |        |        |
 |              | Delivery Slot Selection                 |        |    ✅  |        |        |        |        |
-|              | Pause / Resume / Skip                   |        |    ❌  |        |        |        |        |
-|              | Cut-off Validation                      |        |    ❌  |        |        |        |        |
+|              | Pause / Resume / Skip                   |        |    ✅  |        |        |        |        |
+|              | Cut-off Validation                      |        |    ✅  |        |        |        |        |
 |              | Subscription UI                         |        |    ✅  |        |        |        |        |
 | **Sprint 3** | Create Orders Schema                    |        |        |        |        |        |        |
 |              | Setup Cron Job                          |        |        |        |        |        |        |
