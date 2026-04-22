@@ -17,13 +17,13 @@
 |              | Pause / Resume / Skip                   |        |    ✅  |        |        |        |        |
 |              | Cut-off Validation                      |        |    ✅  |        |        |        |        |
 |              | Subscription UI                         |        |    ✅  |        |        |        |        |
-| **Sprint 3** | Create Orders Schema                    |        |        |        |        |        |        |
-|              | Setup Cron Job                          |        |        |        |        |        |        |
-|              | Generate Daily Orders                   |        |        |        |        |        |        |
+| **Sprint 3** | Create Orders Schema                    |        |    ✅  |        |        |        |        |
+|              | Setup Cron Job                          |        |    ✅  |        |        |        |        |
+|              | Generate Daily Orders                   |        |    ✅  |        |        |        |        |
 |              | Apply Pause/Skip Rules                  |        |        |        |        |        |        |
 |              | Assign Delivery Slots                   |        |        |        |        |        |        |
 |              | Order Status Logic                      |        |        |        |        |        |        |
-|              | Order Locking (Cut-off)                 |        |        |        |        |        |        |
+|              | Order Locking (Cut-off)                 |        |    ✅  |        |        |        |        |
 |              | Order History UI                        |        |        |        |        |        |        |
 | **Sprint 4** | Fetch Customer Locations                |        |        |        |        |        |        |
 |              | K-Means Clustering (Python)             |        |        |        |        |        |        |
