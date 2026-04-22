@@ -24,7 +24,7 @@
 |              | Assign Delivery Slots                   |        |        |        |        |        |        |
 |              | Order Status Logic                      |        |        |        |        |        |        |
 |              | Order Locking (Cut-off)                 |        |    ✅  |        |        |        |        |
-|              | Order History UI                        |        |        |        |        |        |        |
+|              | Order History UI                        |        |    ✅  |        |        |        |        |
 | **Sprint 4** | Fetch Customer Locations                |        |        |        |        |        |        |
 |              | K-Means Clustering (Python)             |        |        |        |        |        |        |
 |              | Assign Clusters to Delivery Partners    |        |        |        |        |        |        |
