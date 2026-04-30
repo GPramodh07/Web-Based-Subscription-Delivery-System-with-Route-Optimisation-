@@ -20,33 +20,31 @@
 | **Sprint 3** | Create Orders Schema                    |        |    ✅  |        |        |        |        |
 |              | Setup Cron Job                          |        |    ✅  |        |        |        |        |
 |              | Generate Daily Orders                   |        |    ✅  |        |        |        |        |
-|              | Apply Pause/Skip Rules                  |        |        |        |        |        |        |
-|              | Assign Delivery Slots                   |        |        |        |        |        |        |
-|              | Order Status Logic                      |        |        |        |        |        |        |
+|              | Apply Pause/Skip Rules                  |        |    ✅  |        |        |        |        |
+|              | Assign Delivery Slots                   |        |    ✅  |        |        |        |        |
+|              | Order Status Logic                      |        |    ✅  |        |        |        |        |
 |              | Order Locking (Cut-off)                 |        |    ✅  |        |        |        |        |
 |              | Order History UI                        |        |    ✅  |        |        |        |        |
-| **Sprint 4** | Fetch Customer Locations                |        |        |        |        |        |        |
-|              | K-Means Clustering (Python)             |        |        |        |        |        |        |
-|              | Assign Clusters to Delivery Partners    |        |        |        |        |        |        |
-|              | Generate Delivery Routes                |        |        |        |        |        |        |
-|              | Store Routes in Database                |        |        |        |        |        |        |
-| **Sprint 5** | Fetch Routes API                        |        |        |        |        |        |        |
-|              | Display Routes UI                       |        |        |        |        |        |        |
-|              | Mark Delivery as Done                   |        |        |        |        |        |        |
-|              | Update Order Status                     |        |        |        |        |        |        |
-|              | Record Delivery Timestamps              |        |        |        |        |        |        |
-|              | Delivery Logs                           |        |        |        |        |        |        |
-|              | Customer Delivery Status View           |        |        |        |        |        |        |
-| **Sprint 6** | Create Payments Schema                  |        |        |        |        |        |        |
-|              | Mock Payment System                     |        |        |        |        |        |        |
-|              | Payment Integration                     |        |        |        |        |        |        |
-|              | Store Transactions                      |        |        |        |        |        |        |
-|              | Earnings Calculation                    |        |        |        |        |        |        |
-|              | Monthly Reports                         |        |        |        |        |        |        |
-|              | Payment Dashboard                       |        |        |        |        |        |        |
-| **Sprint 7** | Manage Users & Delivery Partners        |        |        |        |        |        |        |
-|              | Configure Delivery Slots                |        |        |        |        |        |        |
-|              | Generate Reports                        |        |        |        |        |        |        |
-|              | Track Performance                       |        |        |        |        |        |        |
-|              | Dashboard Visualization                 |        |        |        |        |        |        |
+| **Sprint 4** | Fetch Customer Locations                |        |        |   ✅   |        |        |        |
+|              | K-Means Clustering (Python)             |        |        |   ✅   |        |        |        |
+|              | Assign Clusters to Delivery Partners    |        |        |   ✅   |        |        |        |
+|              | Generate Delivery Routes                |        |        |   ✅   |        |        |        |
+| **Sprint 5** | Fetch Routes API                        |        |        |   ✅   |        |        |        |
+|              | Display Routes UI                       |        |        |   ✅   |        |        |        |
+|              | Mark Delivery as Done                   |        |        |   ✅   |        |        |        |
+|              | Update Order Status                     |        |        |   ✅   |        |        |        |
+|              | Record Delivery Timestamps              |        |        |   ✅   |        |        |        |
+|              | Delivery Logs                           |        |        |   ✅   |        |        |        |
+|              | Customer Delivery Status View           |        |        |   ✅   |        |        |        |
+| **Sprint 6** | Create Payments Schema                  |        |        |        |   ✅   |        |        |
+|              | Mock Payment System                     |        |        |        |   ✅   |        |        |
+|              | Payment Integration                     |        |        |        |   ✅   |        |        |
+|              | Store Transactions                      |        |        |        |   ✅   |        |        |
+|              | Earnings Calculation                    |        |        |        |   ✅   |        |        |
+|              | Payment Dashboard                       |        |        |        |   ✅   |        |        |
+| **Sprint 7** | Manage Users & Delivery Partners        |        |        |        |        |   ✅   |        |
+|              | Configure Delivery Slots                |        |        |        |        |   ✅   |        |
+|              | Generate Reports                        |        |        |        |        |   ✅   |        |
+|              | Track Performance                       |        |        |        |        |   ✅   |        |
+|              | Dashboard Visualization                 |        |        |        |        |   ✅   |        |
 |              | Testing & Bug Fixing                    |        |        |        |        |        |        |
